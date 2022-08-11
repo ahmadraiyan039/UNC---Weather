@@ -1,6 +1,5 @@
 """Does operations from the data set of weather stats from O'hare international airport at Chicago."""
 
-__author__ = "730403230"
 
 import sys
 
